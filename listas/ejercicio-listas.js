@@ -20,7 +20,7 @@ Crea un archivo JS que contenga las siguientes líneas
 - Una nueva lista que concatene la lista de directores y la lista de los títulos (utilizando el factor de propagación)
 */
 
-let lista_compra = ['pan','leche','huevos','arroz','harina','jabon','carne','chocolate'];
+let lista_compra = ['pan','leche','huevos','arroz','harina','jabon','carne','chocolate','queso'];
 lista_compra.push('Aceite de girasol');
 lista_compra.pop();
 
