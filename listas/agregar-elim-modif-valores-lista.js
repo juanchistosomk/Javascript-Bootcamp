@@ -29,3 +29,8 @@ console.log(array2);
 //Modifica
 array2.splice(2, 1, "Carlos")
 console.log(array2);
+
+// Eliminar
+const hh =array2.indexOf("Carlos")
+console.log(array2.splice(hh,1));
+console.log(array2);
