@@ -34,4 +34,6 @@ console.log(fecha5.getFullYear());
 // toLocaleDate String
 console.log(fecha3.toLocaleDateString('es-CO'));
 
+console.log(datehoy.toLocaleDateString('es-CO'));
+
 
